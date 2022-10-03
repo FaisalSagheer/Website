@@ -1,7 +1,9 @@
 :root {
     --main-bg-color: rgba(47, 40, 40, 0.78);
 }
-
+body{
+    font-size: 18px;
+}
 header {
     background-color: var(--main-bg-color);
     color: white;
